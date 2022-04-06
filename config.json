@@ -1,0 +1,9 @@
+{
+	"ip":"KifolSMP.aternos.me",
+	"port": 29370,
+	"name": "afkbot1",
+	"auto-night-skip":"false",
+	"login-enabled":"true",
+	"register-cmd":"/register TomekGTX1",
+	"login-cmd":"/login TomekGTX1"
+}
